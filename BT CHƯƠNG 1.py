@@ -1,0 +1,1 @@
+print (Helo world! Tôi là Nhóm 2)
